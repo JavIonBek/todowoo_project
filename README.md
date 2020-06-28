@@ -1,2 +1,2 @@
-# todowoo_project
+# Todowoo project
 Todo list
