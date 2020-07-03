@@ -1,2 +1,2 @@
 # Todowoo project
-A simple todo list in Django 3
+A simple to do list in Django 3
